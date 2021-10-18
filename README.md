@@ -1,2 +1,6 @@
-# csgo_offsets
-interface_offsets, netvar_dump
+# Csgo Offsets
+
+
+fresh csgo dump
+
+Enjoy!
